@@ -63,7 +63,4 @@ model.predict([[5]])  # Predict score for 5 hours of study
 - Deploy as a web application
 
 ## Author
-[Your Name]
-
-## License
-MIT License
+Raghunandan Sharma
